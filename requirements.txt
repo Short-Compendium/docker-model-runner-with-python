@@ -1,3 +1,4 @@
 ollama
 litellm
+google-adk
 #openai

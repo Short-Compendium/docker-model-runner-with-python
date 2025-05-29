@@ -2,3 +2,4 @@
 /tmp
 /discovery
 *.fr.md
+__pycache__
