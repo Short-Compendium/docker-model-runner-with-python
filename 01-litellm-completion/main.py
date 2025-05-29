@@ -11,7 +11,6 @@ response = completion(
             "content": "Who is James T. Kirk's best friend?"
         }
     ],
-    #max_tokens=100
 )
 print(response.choices[0].message.content)
 
